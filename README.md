@@ -1,7 +1,7 @@
-# (Kaggle-CIFAR-10-Object-Recognition-in-Images)[https://www.kaggle.com/c/cifar-10/overview]
+# Kaggle-CIFAR-10-Object-Recognition-in-Images
 Implementation of different CNN models to recognize CIFAR-10 Image by MXNet
 ## Introduction
-This repository is about different CNN architecture by using MXNet framework for CIFAR-10 dataset in kaggle.
+This repository is about different CNN architecture by using MXNet framework for CIFAR-10 dataset in (kaggle)[https://www.kaggle.com/c/cifar-10/overview].
 For now, the my resnet164_v2 model got 0.93370 which is over rank 7, and my resnet18 model got 0.90480. Some of the ideas come from 
 [gluon community](https://discuss.gluon.ai), and welcome to join the family of MXNet gluon.
 
